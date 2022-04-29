@@ -3,15 +3,12 @@
 # Install Docker
 ![Screenshot (4)](https://user-images.githubusercontent.com/59721830/165910612-792452b0-cf15-4795-b6dd-282f837dc6b3.png)
 # Our first container
-![Screenshot (4)](https://user-images.githubusercontent.com/59721830/165910612-792452b0-cf15-4795-b6dd-282f837dc6b3.png)
-# Run a Webapp with Docker
-![Screenshot (10)](https://user-images.githubusercontent.com/59721830/165910641-17b48778-9c52-4d11-9087-eff01ff26667.png)
 ![Screenshot (8)](https://user-images.githubusercontent.com/59721830/165910623-b3565226-64a6-4b00-825b-4da0043a00d2.png)
+# Run a Webapp with Docker
 ![Screenshot (9)](https://user-images.githubusercontent.com/59721830/165910629-fdfeec2b-a2c5-450e-a305-74e15abe92ac.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/59721830/165910641-17b48778-9c52-4d11-9087-eff01ff26667.png)
 # Interacting with Containers 
-![Screenshot (12)](https://user-images.githubusercontent.com/59721830/165910539-09d260f2-22f7-44ee-99a9-f05ecdedf5a9.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/59721830/165910601-14314f4c-3083-4c54-bae5-94e06e95f1f0.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/59721830/165910587-d8e26933-9840-41cf-8fbf-0a8074e7e702.png)
 # Docker Images and Layers
 ![Screenshot (13)](https://user-images.githubusercontent.com/59721830/165910548-342d7532-8bd6-4c36-96c2-2c82eb61207c.png)
 # Building Images Interactively
